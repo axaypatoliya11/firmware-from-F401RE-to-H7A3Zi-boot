@@ -1,0 +1,11 @@
+bootloader.c:16:6:target_reset	8	static
+bootloader.c:22:16:xor_checksum	24	static
+bootloader.c:35:6:enter_boot	8	static
+bootloader.c:40:6:exit_boot	8	static
+bootloader.c:45:6:BL_Invoke_UART	8	static
+bootloader.c:51:6:wait_for_ack_byte	16	static
+bootloader.c:56:6:BL_Get_Cmd	24	static
+bootloader.c:74:9:BL_GetVersion_Command	16	static
+bootloader.c:96:6:BL_EraseMemory_Command	32	static
+bootloader.c:129:6:BL_WriteMemory_Command	64	static
+bootloader.c:190:6:BL_ReadMemory_Command	40	static
